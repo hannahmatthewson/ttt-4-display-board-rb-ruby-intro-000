@@ -6,5 +6,5 @@ def display_board(board)
   puts " #{board[6]} | #{board[7]}| #{board[8]} "
 end
 
-board = [" x ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
-display_board([" x ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "])
+board = [" x ", "   ", " o ", " x ", "   ", "   ", "   ", "   ", "   "]
+display_board([" x ", "   ", " o ", " x ", "   ", "   ", "   ", "   ", "   "])
