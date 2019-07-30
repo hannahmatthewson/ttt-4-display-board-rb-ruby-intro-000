@@ -7,4 +7,4 @@ def display_board(board)
 end
 
 board = [" x ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
-display_board(board)
+display_board([" x ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "])
